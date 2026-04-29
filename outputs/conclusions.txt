@@ -1,0 +1,9 @@
+CONCLUSIONS
+============================================================
+No significant differences between temperature conditions were found for any factor (all p > 0.05).
+Note: The current sample size may be insufficient to detect existing effects (Involvement eta^2 = 0.66 suggests a potentially large effect).
+
+Non-significant factors:
+  * Involvement: Kruskal-Wallis test, p = 0.191, eta^2 = 0.658
+  * RWD: Kruskal-Wallis test, p = 0.924, eta^2 = 0.000
+  * Challenge: Kruskal-Wallis test, p = 0.741, eta^2 = 0.000

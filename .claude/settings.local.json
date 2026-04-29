@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(python datahandling.py)",
-      "Bash(python -c ' *)"
+      "Bash(python -c ' *)",
+      "Bash(.venv/Scripts/python.exe datahandling.py)"
     ]
   }
 }
