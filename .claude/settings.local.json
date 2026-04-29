@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python datahandling.py)",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
