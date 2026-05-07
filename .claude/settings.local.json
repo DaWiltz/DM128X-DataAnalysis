@@ -3,7 +3,13 @@
     "allow": [
       "Bash(python datahandling.py)",
       "Bash(python -c ' *)",
-      "Bash(.venv/Scripts/python.exe datahandling.py)"
+      "Bash(.venv/Scripts/python.exe datahandling.py)",
+      "Bash(find \"d:/DM128X DataAnalysis\" -maxdepth 2 -name \"*.py\" ! -path \"*/.venv/*\" ! -path \"*\\\\\\\\.venv\\\\\\\\*\")",
+      "Bash(python main.py)",
+      "Bash(python -m py_compile calc.py graph.py main.py)",
+      "Bash(python -m pylint calc.py graph.py main.py --disable=C,R --score=n)",
+      "Bash(python -m pyflakes calc.py graph.py main.py)",
+      "Bash(python -W all main.py)"
     ]
   }
 }
