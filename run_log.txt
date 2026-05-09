@@ -1,0 +1,33 @@
+Loaded data from JSON: neo4j_query_table_data_2026-5-9.json
+
+Descriptives (factor x temperature):
+     factor temperature   mean     sd  n    min    max
+  Challenge         T=0 3.6667 0.6849 10 2.6667 4.6667
+  Challenge      T=0.35 3.7667 0.5890 10 3.0000 4.6667
+  Challenge      T=0.70 3.7667 0.7209 10 2.3333 4.6667
+Involvement         T=0 4.4250 0.6129 10 3.2500 5.0000
+Involvement      T=0.35 4.3250 0.6460 10 3.0000 5.0000
+Involvement      T=0.70 4.1750 0.5407 10 3.2500 5.0000
+        RWD         T=0 3.4750 0.8032 10 2.0000 4.5000
+        RWD      T=0.35 3.5250 0.9461 10 2.5000 5.0000
+        RWD      T=0.70 3.1000 0.7188 10 2.0000 4.5000
+
+Factor tests:
+     factor    test   stat    df      p  eta_sq  levene_p  shapiro_p_min sig
+Involvement   anova 0.4376 2, 27 0.6501  0.0314    0.9100         0.1193    
+        RWD   anova 0.7870 2, 27 0.4654  0.0551    0.2857         0.1236    
+  Challenge kruskal 0.4937     2 0.7813  0.0000    0.9481         0.0253    
+
+CONCLUSIONS
+============================================================
+No significant differences between temperature conditions were found for any factor (all p > 0.05).
+Note: The current sample size may be insufficient to detect existing effects (Involvement eta^2 = 0.03 suggests a potentially large effect).
+
+Non-significant factors:
+  * Involvement: one-way ANOVA, p = 0.650, eta^2 = 0.031
+  * RWD: one-way ANOVA, p = 0.465, eta^2 = 0.055
+  * Challenge: Kruskal-Wallis test, p = 0.781, eta^2 = 0.000
+
+Saved CSV outputs to: D:\DM128X DataAnalysis\outputs
+Saved plots to: D:\DM128X DataAnalysis\outputs\plots
+Participants processed: 30
