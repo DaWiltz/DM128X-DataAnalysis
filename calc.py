@@ -24,7 +24,7 @@ except ImportError:
 # CONFIGURATION
 # --------------------------------------------------
 
-INPUT_JSON = Path("neo4j_query_table_data_2026-5-6.json")
+INPUT_JSON: Path | None = None
 OUT_DIR = Path("outputs")
 PLOTS_DIR = OUT_DIR / "plots"
 
@@ -182,11 +182,13 @@ def load_source_data() -> pd.DataFrame:
     except Exception as exc:
         print(f"Neo4j ingestion failed ({exc}), falling back to JSON")
 
-    if not INPUT_JSON.exists():
-        raise FileNotFoundError(f"JSON source not found: {INPUT_JSON}")
+    _json_input = input("Enter path to input JSON file: ").strip()
+    json_path = Path(_json_input)
+    if not json_path.exists():
+        raise FileNotFoundError(f"JSON source not found: {json_path}")
 
-    print(f"Loaded data from JSON: {INPUT_JSON}")
-    return pd.read_json(INPUT_JSON)
+    print(f"Loaded data from JSON: {json_path}")
+    return pd.read_json(json_path)
 
 
 def standardize_source_columns(df: pd.DataFrame) -> pd.DataFrame:

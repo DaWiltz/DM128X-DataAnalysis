@@ -1,0 +1,3258 @@
+[
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 5
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "När jag listade ut vad koden till kassaskåpet var."
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Lite störande att inte kunna trycka W+A / W+D. Ibland lite störande med väntetiden för att få svar."
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Att jag var säker men hade fel."
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 5
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 5
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 4
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 5
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "Vaje gång jag intervjuade personerna på slottet."
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "När jag skulle svara med siffror till konstapeln."
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Första mötet med hushållerskan"
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 5
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 5
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 4
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "När jag frågade Beatrice om vad hon gjorde kvälle då Nils dog"
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Det var trögt att få vänta på svaren från karaktärerna. Det kändes också svårt att ställa rätt frågor till karaktärerna för att få fram rätt svar."
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Vet ej"
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 3
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 4
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 3
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 4
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 3
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "när jag försökte lite ut tidslinjen. Vem var det som kunde ha låst arbetsrummet?"
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Varje gång jag pratade med kommisarien. Det var en få hjälp knapp, inte en levande karaktär."
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Att leta efter den 4-siffriga koden"
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 4
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 3
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "Häftiga dialoger, uppskattades för immersionen."
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Något långa pauser vid dialoger, tog ifrån inlevelsen."
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Dialoger generellt, gillar stilen."
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 3
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 2
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 2
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 2
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "When I was having a conversation with the players, Pamela for example or when I needed to use tools to get into rooms etc."
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Yes, perhaps with Wilhelm conversation beacuse it was so quick and it was clear he had a certain personality. Also in the rooms that were a bit empty and also when I got an error message when I messaged Beatrice."
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "I did like the key feature and when I was able to crack the code for the safe with the letter."
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 2
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 3
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 1
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 3
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "when the son of wilhelm was rude"
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "when wilhelm just told me the password to the safe. I dont think I asked anything specific about it"
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "when i got the clue from the safe"
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 5
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 4
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 3
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "När jag började skriva inte bara vad som hände utan vad jag *gjorde* och karaktärerna reagerade på det och till och med kom ihåg vad jag hade gjort mot dem."
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Ja ibland när vissa knappar inte fungerade. Jag var tille xempel tvungen att trycka flera gånger på tillbaka när jag var i ett rum och pratade med en person."
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "När jag började *Agera* mot karaktärerna."
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 2
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 1
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 3
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "När jag fick en viktig ledtråd från en person som jag behövde fråga en annan om. När nya viktiga ledtrådar kom in."
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "När jag undersökte ett dött spår. När spelet försökte lotsa in mig någonstans."
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Återigen: när nya ledtrådar som förändrade hela bilden av mordet kom."
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 5
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 3
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 3
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 5
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 4
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "Efter att ha hittat nyckleln till arbetsrummet och visste att brevet var av betydlese."
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Innan man förstod hur spelet fungerade och vilka personer som var inblandade."
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "När jag hittade nyckel som jag förstod var viktig."
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 3
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 1
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "figuring out the code to the safe"
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "one error code as an answer when asking beatrice a question"
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "accusing a suspect and got a very reasonable/realistic answer based on the conversation we had."
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 4
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 4
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 3
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "Det var roligt att chatta med rollfigurerna eftersom man kunde fråga vad som helst och få svar."
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Fick ett error-meddelande från Pamela när jag frågade om hon talade sanning, när hon sa att hon hade varit ensam i köket. Att svaren var lite upprepande ibland. En gång frågade jag \"Varför sägerr du det?\" och rollfiguren svarade då \"För att det är sant och du frågade.\" - vilket kändes som ett \"AI-svar\"."
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Första samtalet med Pamela var roligt och spännande och genererade många ledtrådar."
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 2
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 2
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 2
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 2
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 5
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "Jag kände i första konversationen som var med pamela att jag visste på en gång vem som var mördaren men alla karaktärerna var luriga och vilseledde mig hela tiden. Det gjorde mig mer och mer involverad fort, jag ville verkligen lista ut vem det var."
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "karaktärerna svarade ibland väldigt samma sak på frågor, det kan bli lite som att prata med en robot istället för en karaktär."
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "karaktärernas beskrivning runt ansiktsuttryck och tonfall när de pratar bidrar till stämningen. Musiken ändrades drastiskt när jag fick en ledtråd av Wilhelm, det förhöjer spelupplevelsen."
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 5
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 5
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 5
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "I really enjoed the first conversations with everyone and asking questions."
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "The responses took a bit of time also entering and leaving the rooms."
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Finding the safe and not having the code and figuering out where to get it."
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 3
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 2
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 3
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 3
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "as soon as beatrice was acting strange i knew and i enjoyed being right"
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "no"
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "being correct on the first guess, it was difficult but not too difficult so it was enjoyable"
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 3
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 3
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 2
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 3
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 3
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "when I got into character and was really rude to the people, Harry Dubois style. Everyone hated me."
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "I didnt really feel like the characters responded in a way that reflects how I treated them."
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "feeling confused about how to review my clues with nobody to really ask. also, the reward cycle is a bit weak compared to a game where I can see my progress."
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 1
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 1
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 3
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 5
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 3
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 3
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 5
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "when there was a key to find to the safe, which divided the game into several smaller tasks"
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 3
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 5
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 5
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "Först var det lite svårt att veta vad för frågor man ska ställa. Men sen när man vet mer och mer om karaktärerna blev det roligare"
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Nej inte på grund av spelet"
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "När man klarade första ledtråden och på så sätt förstår mer hur/vad  för frågor man ska ställa"
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 2
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 3
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 3
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 3
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 5
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "When people responed realistically to my questions, and with different personalities."
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "It took a little longer than expected. So I was a little restless towards the end, when it felt as if I had done everything but couldn't get a confession from anyone. The waiting for answers from NPCs were a little distracting, but I of course understand why."
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "The distinct personalities of the NPCs and how cool it was to \"speak freely\" with them. It felt as if some of them were trying to gaslight me at times. Weird but cool!"
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 3
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 5
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 2
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 1
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 5
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "When characters started contradicting eachother and I had to try and find cracks in their stories on my own."
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Sometimes it would seem some lines were a bit nonsensical, probably caused by LLM hallucinations. There was also a moment when a character gave a HTTP error"
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Having to piece together all the information and formulate a final accusation on my own."
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 5
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 5
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 5
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 3
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "När hitta koden till kassaskåpet"
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "nej"
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "när jag lista ut att koden har någonting med silvia att göra"
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 5
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 5
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 5
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "När man går genom dörrar så känns får man en bra känsla av miljöbyte / går från trångt till öppet."
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Vet ej :/"
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Resp. rum"
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 3
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 2
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 5
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "det kändes inte enformigt, bra med olika typer av \"drama\" i familjen och olika typer av karaktärer"
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "LLM var lite trög ibland och tog tid att generera svar, fick 2-3 \"error 500\" också så fick skriva om frågan"
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "tycket om karaktären som fanns som av dramatisk son, typisk \"dotter som inte gillar styvmor\" och sassy advokat. Det gav mer liv till spelet"
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 3
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 3
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 2
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 3
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 2
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "When the son (Wilmar? Wilhelm?) retorted to my initial murder accusation. Raving about how he'd be halfway to Tangiers - good stuff."
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "I sadly quite often felt a mismatch in the GenAI usage and detective genre. I kept wondering \"Is this person lying, or has the AI made a logic error, that it is attempting to rectify by hallucinating? To what degree is the model aware of its own mistakes?\""
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "My first conversation - to Pamela. I had interviewed her about her not having noticed the body/any blood/any signs of struggle when sleeping. But the body is covered in blood, in plain clothes, on the bed. Is she bullshitting me? It was a complicated situation. In the end, I felt I had to move on to appease the game, rather than pursuing detective work."
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 4
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 1
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 3
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 4
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "Är ovan datorselare och ovan vid spelen. Men givande att se hur spelet är konstruerad."
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "När någon kom in och avslöjade vem som mördaten var."
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 3
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 4
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 2
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 3
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 4
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 3
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "When I asked Pamela follow up questions"
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "When several characters answered in the same way initially when asked 'Tell me everything you know'"
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 3
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 2
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 3
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 4
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 4
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 3
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 3
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 3
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "answer": 4
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "answer": 2
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "answer": 5
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "answer": "Jag kände i slutet att jag hade en viktig uppgift som jag absolut ville lösa även om det bara var ett spel."
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "answer": "Nej, men jag tror man ska läsa instruktionerna mer noggrant. Tycker att personerna liknade varandra något som gjorde att jag blandade ihopp vem som var vem."
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "answer": "Ja, mycket nöjd att jag listade ut eoch fick en ledtråd som absolut blev avgörande, MEN jag var ändå inte 100 % säker. Spännande!"
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "answer": 5
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "answer": 3
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "answer": 4
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "answer": 5
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "answer": 5
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "answer": 5
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "answer": 5
+  }
+]
