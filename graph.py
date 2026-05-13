@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import textwrap
+
 import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 import numpy as np
@@ -525,6 +527,173 @@ def plot_item_descriptives_table(scored: pd.DataFrame) -> None:
     fig.tight_layout(rect=[0, 0.04, 1, 1])
     fig.savefig(PLOTS_DIR / "item_descriptives_table.png",
                 dpi=180, bbox_inches="tight", facecolor="white")
+    plt.close(fig)
+
+
+# ── Demographics table ─────────────────────────────────────────────────────────
+
+def plot_demographics_table(demo_df: pd.DataFrame) -> None:
+    col_map = {
+        "player": "Player", "temperature": "Temp",
+        "age": "Age", "gender": "Gender",
+        "game_experience": "Game exp.\n(1–5)", "native_language": "Native lang.",
+    }
+    cols = [c for c in col_map if c in demo_df.columns]
+    col_labels = [col_map[c] for c in cols]
+
+    table_data = []
+    for _, row in demo_df[cols].iterrows():
+        table_data.append([
+            str(row[c]) if pd.notna(row[c]) else "—" for c in cols
+        ])
+
+    fig, ax = plt.subplots(figsize=(max(10, len(col_labels) * 1.6), max(4, len(table_data) * 0.48 + 1.8)))
+    fig.patch.set_facecolor("white")
+    ax.axis("off")
+
+    tbl = ax.table(cellText=table_data, colLabels=col_labels, cellLoc="center", loc="center")
+    tbl.auto_set_font_size(False)
+    tbl.set_fontsize(10)
+    tbl.scale(1.1, 1.9)
+
+    for j in range(len(col_labels)):
+        cell = tbl[0, j]
+        cell.set_facecolor("#2c3e50")
+        cell.set_text_props(color="white", fontweight="bold")
+        cell.set_edgecolor("white")
+
+    temp_bg = {t: c + "25" for t, c in TEMP_COLORS.items()}
+    for i, (_, row) in enumerate(demo_df[cols].iterrows(), start=1):
+        bg = temp_bg.get(str(row["temperature"]), "#f5f5f5")
+        for j in range(len(col_labels)):
+            cell = tbl[i, j]
+            cell.set_facecolor(bg)
+            cell.set_edgecolor("#e0e0e0")
+            cell.set_linewidth(0.7)
+
+    ax.set_title("Participant Demographics", fontsize=11, fontweight="bold", pad=12, color="#111111")
+    _caption(fig, "Game experience: 1 = no experience, 5 = very experienced.")
+    fig.tight_layout(rect=[0, 0.04, 1, 1])
+    fig.savefig(PLOTS_DIR / "demographics_table.png", dpi=180, bbox_inches="tight", facecolor="white")
+    plt.close(fig)
+
+
+# ── Open answers + immersion summary ──────────────────────────────────────────
+
+def plot_open_answers_table(scored: pd.DataFrame, open_df: pd.DataFrame) -> None:
+    factor_cols = list(FACTORS.keys()) + ["Overall"]
+    open_cols   = ["immersion_moment", "immersion_break", "memorable_moment"]
+    col_display = {
+        "player": "Player", "temperature": "Temp",
+        "Involvement": "Inv.", "RWD": "RWD", "Challenge": "Chal.", "Overall": "Overall",
+        "immersion_moment":  "Immersion moment (Q12)",
+        "immersion_break":   "Immersion break (Q13)",
+        "memorable_moment":  "Memorable moment (Q14)",
+    }
+
+    merged = (
+        scored[["player", "temperature"] + factor_cols]
+        .merge(open_df, on=["player", "temperature"], how="left")
+    )
+    merged["temperature"] = pd.Categorical(merged["temperature"], categories=TEMPS, ordered=True)
+    merged = merged.sort_values(["temperature", "player"]).reset_index(drop=True)
+
+    open_cols = [c for c in open_cols if c in merged.columns]
+    all_cols   = ["player", "temperature"] + factor_cols + open_cols
+    col_labels = [col_display.get(c, c) for c in all_cols]
+
+    WRAP_WIDTH = 48
+
+    def fmt(c, v):
+        if not pd.notna(v):
+            return "—"
+        if c in factor_cols:
+            return f"{v:.2f}"
+        if c in open_cols:
+            return textwrap.fill(str(v), WRAP_WIDTH)
+        return str(v)
+
+    table_data = [
+        [fmt(c, row[c]) for c in all_cols]
+        for _, row in merged[all_cols].iterrows()
+    ]
+
+    # Lines per row (drives row height)
+    def row_lines(cells):
+        return max(c.count("\n") + 1 for c in cells)
+
+    line_counts = [row_lines(r) for r in table_data]
+
+    FONT       = 8
+    LINE_H     = 0.22   # inches per text line
+    HDR_H      = 0.40   # header row height (inches)
+    PAD        = 0.06   # per-row padding
+
+    row_heights = [lc * LINE_H + PAD for lc in line_counts]
+    total_h     = HDR_H + sum(row_heights)
+
+    # Column width fractions (relative)
+    raw_w  = [1.4, 0.85] + [0.65] * len(factor_cols) + [3.6] * len(open_cols)
+    total_w = sum(raw_w)
+    col_w  = [w / total_w for w in raw_w]
+
+    fig_w = 24
+    fig_h = total_h + 1.2   # title + caption
+    fig, ax = plt.subplots(figsize=(fig_w, fig_h))
+    fig.patch.set_facecolor("white")
+    ax.axis("off")
+
+    tbl = ax.table(cellText=table_data, colLabels=col_labels,
+                   cellLoc="center", loc="upper center",
+                   bbox=[0, 0, 1, total_h / fig_h])
+    tbl.auto_set_font_size(False)
+    tbl.set_fontsize(FONT)
+
+    # Set column widths
+    for j, w in enumerate(col_w):
+        for i in range(len(table_data) + 1):
+            tbl[i, j].set_width(w)
+
+    # Set row heights
+    for j in range(len(all_cols)):
+        tbl[0, j].set_height(HDR_H / fig_h)
+    for i, rh in enumerate(row_heights, start=1):
+        for j in range(len(all_cols)):
+            tbl[i, j].set_height(rh / fig_h)
+
+    # Left-align open-answer cells
+    open_start = 2 + len(factor_cols)
+    for i in range(1, len(table_data) + 1):
+        for j in range(open_start, len(all_cols)):
+            tbl[i, j]._loc = "left"
+
+    # Header colours
+    for j, c in enumerate(all_cols):
+        cell = tbl[0, j]
+        cell.set_facecolor(
+            "#4a3070" if c in open_cols else
+            "#1a5e36" if c in factor_cols else
+            "#2c3e50"
+        )
+        cell.set_text_props(color="white", fontweight="bold")
+        cell.set_edgecolor("white")
+
+    temp_bg = {t: c + "25" for t, c in TEMP_COLORS.items()}
+    for i, (_, row) in enumerate(merged[all_cols].iterrows(), start=1):
+        bg = temp_bg.get(str(row["temperature"]), "#f5f5f5")
+        for j in range(len(all_cols)):
+            cell = tbl[i, j]
+            cell.set_facecolor(bg)
+            cell.set_edgecolor("#e0e0e0")
+            cell.set_linewidth(0.5)
+
+    ax.set_title("Open Answers & Immersion Scores — IEQ-SF",
+                 fontsize=12, fontweight="bold", pad=10, color="#111111")
+    _caption(fig, "Green headers = computed factor scores (1–5).  "
+             "Purple headers = open-ended responses.  Scores use reverse-coded items.",
+             y=0.005)
+    fig.savefig(PLOTS_DIR / "open_answers_table.png",
+                dpi=150, bbox_inches="tight", facecolor="white")
     plt.close(fig)
 
 

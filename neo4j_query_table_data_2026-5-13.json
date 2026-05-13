@@ -3,8 +3,81 @@
     "user": "user_53",
     "temp": 0.7,
     "player": "Alfonso",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
+  },
+  {
+    "user": "user_53",
+    "temp": 0.7,
+    "player": "Alfonso",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -13,6 +86,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -21,6 +95,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -29,6 +104,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När jag listade ut vad koden till kassaskåpet var."
   },
   {
@@ -37,6 +113,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Lite störande att inte kunna trycka W+A / W+D. Ibland lite störande med väntetiden för att få svar."
   },
   {
@@ -45,6 +122,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Att jag var säker men hade fel."
   },
   {
@@ -53,6 +131,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -61,6 +140,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -69,6 +149,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -77,6 +158,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -85,6 +167,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -93,6 +176,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -101,6 +185,7 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -109,7 +194,80 @@
     "player": "Alfonso",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 65
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 1
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "female"
+  },
+  {
+    "user": "user_55",
+    "temp": 0.0,
+    "player": "Kerstin",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
   },
   {
     "user": "user_55",
@@ -117,6 +275,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -125,6 +284,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -133,6 +293,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -141,6 +302,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Vaje gång jag intervjuade personerna på slottet."
   },
   {
@@ -149,6 +311,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När jag skulle svara med siffror till konstapeln."
   },
   {
@@ -157,6 +320,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Första mötet med hushållerskan"
   },
   {
@@ -165,6 +329,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -173,6 +338,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -181,6 +347,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -189,6 +356,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -197,6 +365,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -205,6 +374,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -213,6 +383,7 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -221,7 +392,80 @@
     "player": "Kerstin",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_56",
+    "temp": 0.35,
+    "player": "Daniel",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Svenska"
   },
   {
     "user": "user_56",
@@ -229,6 +473,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -237,6 +482,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -245,6 +491,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -253,6 +500,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När jag frågade Beatrice om vad hon gjorde kvälle då Nils dog"
   },
   {
@@ -261,6 +509,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Det var trögt att få vänta på svaren från karaktärerna. Det kändes också svårt att ställa rätt frågor till karaktärerna för att få fram rätt svar."
   },
   {
@@ -269,6 +518,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Vet ej"
   },
   {
@@ -277,6 +527,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -285,6 +536,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -293,6 +545,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -301,6 +554,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -309,6 +563,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -317,6 +572,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -325,6 +581,7 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -333,7 +590,80 @@
     "player": "Daniel",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 3
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 35
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 4
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_58",
+    "temp": 0.0,
+    "player": "Mr Boopo",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "swedish"
   },
   {
     "user": "user_58",
@@ -341,6 +671,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -349,6 +680,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -357,6 +689,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -365,6 +698,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -373,6 +707,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -381,6 +716,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -389,6 +725,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -397,6 +734,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -405,6 +743,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -413,6 +752,7 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -421,7 +761,80 @@
     "player": "Mr Boopo",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 3
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 18
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 4
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_60",
+    "temp": 0.35,
+    "player": "Dr. Seacat",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "polska, svenska"
   },
   {
     "user": "user_60",
@@ -429,6 +842,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -437,6 +851,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -445,6 +860,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -453,6 +869,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "när jag försökte lite ut tidslinjen. Vem var det som kunde ha låst arbetsrummet?"
   },
   {
@@ -461,6 +878,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Varje gång jag pratade med kommisarien. Det var en få hjälp knapp, inte en levande karaktär."
   },
   {
@@ -469,6 +887,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Att leta efter den 4-siffriga koden"
   },
   {
@@ -477,6 +896,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -485,6 +905,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -493,6 +914,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -501,6 +923,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -509,6 +932,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -517,6 +941,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -525,6 +950,7 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -533,7 +959,80 @@
     "player": "Dr. Seacat",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 3
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_62",
+    "temp": 0.7,
+    "player": "pjongen",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "swedish"
   },
   {
     "user": "user_62",
@@ -541,6 +1040,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -549,6 +1049,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -557,6 +1058,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -565,6 +1067,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Häftiga dialoger, uppskattades för immersionen."
   },
   {
@@ -573,6 +1076,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Något långa pauser vid dialoger, tog ifrån inlevelsen."
   },
   {
@@ -581,6 +1085,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Dialoger generellt, gillar stilen."
   },
   {
@@ -589,6 +1094,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -597,6 +1103,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -605,6 +1112,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -613,6 +1121,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -621,6 +1130,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -629,6 +1139,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -637,6 +1148,7 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -645,7 +1157,80 @@
     "player": "pjongen",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 1
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "female"
+  },
+  {
+    "user": "user_63",
+    "temp": 0.0,
+    "player": "nb",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "sv/eng"
   },
   {
     "user": "user_63",
@@ -653,6 +1238,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -661,6 +1247,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -669,6 +1256,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -677,6 +1265,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "When I was having a conversation with the players, Pamela for example or when I needed to use tools to get into rooms etc."
   },
   {
@@ -685,6 +1274,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Yes, perhaps with Wilhelm conversation beacuse it was so quick and it was clear he had a certain personality. Also in the rooms that were a bit empty and also when I got an error message when I messaged Beatrice."
   },
   {
@@ -693,6 +1283,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "I did like the key feature and when I was able to crack the code for the safe with the letter."
   },
   {
@@ -701,6 +1292,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -709,6 +1301,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -717,6 +1310,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 1
   },
   {
@@ -725,6 +1319,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -733,6 +1328,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -741,6 +1337,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -749,6 +1346,7 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -757,7 +1355,80 @@
     "player": "nb",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 3
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 3
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_64",
+    "temp": 0.7,
+    "player": "faderabraham",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "swedish"
   },
   {
     "user": "user_64",
@@ -765,6 +1436,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -773,6 +1445,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -781,6 +1454,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -789,6 +1463,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "when the son of wilhelm was rude"
   },
   {
@@ -797,6 +1472,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "when wilhelm just told me the password to the safe. I dont think I asked anything specific about it"
   },
   {
@@ -805,6 +1481,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "when i got the clue from the safe"
   },
   {
@@ -813,6 +1490,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -821,6 +1499,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -829,6 +1508,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -837,6 +1517,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -845,6 +1526,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -853,6 +1535,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -861,6 +1544,7 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -869,7 +1553,80 @@
     "player": "faderabraham",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 4
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "Male"
+  },
+  {
+    "user": "user_65",
+    "temp": 0.0,
+    "player": "Läderlappen",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Svenska"
   },
   {
     "user": "user_65",
@@ -877,6 +1634,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -885,6 +1643,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -893,6 +1652,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -901,6 +1661,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När jag började skriva inte bara vad som hände utan vad jag *gjorde* och karaktärerna reagerade på det och till och med kom ihåg vad jag hade gjort mot dem."
   },
   {
@@ -909,6 +1670,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Ja ibland när vissa knappar inte fungerade. Jag var tille xempel tvungen att trycka flera gånger på tillbaka när jag var i ett rum och pratade med en person."
   },
   {
@@ -917,6 +1679,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När jag började *Agera* mot karaktärerna."
   },
   {
@@ -925,6 +1688,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -933,6 +1697,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -941,6 +1706,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -949,6 +1715,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -957,6 +1724,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -965,6 +1733,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -973,6 +1742,7 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -981,7 +1751,80 @@
     "player": "Läderlappen",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_66",
+    "temp": 0.35,
+    "player": "Kakan",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
   },
   {
     "user": "user_66",
@@ -989,6 +1832,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -997,6 +1841,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 1
   },
   {
@@ -1005,6 +1850,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1013,6 +1859,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När jag fick en viktig ledtråd från en person som jag behövde fråga en annan om. När nya viktiga ledtrådar kom in."
   },
   {
@@ -1021,6 +1868,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När jag undersökte ett dött spår. När spelet försökte lotsa in mig någonstans."
   },
   {
@@ -1029,6 +1877,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Återigen: när nya ledtrådar som förändrade hela bilden av mordet kom."
   },
   {
@@ -1037,6 +1886,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1045,6 +1895,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1053,6 +1904,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1061,6 +1913,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1069,6 +1922,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1077,6 +1931,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1085,6 +1940,7 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1093,7 +1949,80 @@
     "player": "Kakan",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 1
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "female"
+  },
+  {
+    "user": "user_67",
+    "temp": 0.0,
+    "player": "willi",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "swedish"
   },
   {
     "user": "user_67",
@@ -1101,6 +2030,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1109,6 +2039,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1117,6 +2048,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1125,6 +2057,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1133,6 +2066,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1141,6 +2075,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1149,6 +2084,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1157,6 +2093,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1165,6 +2102,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1173,6 +2111,7 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1181,7 +2120,80 @@
     "player": "willi",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 65
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 2
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_69",
+    "temp": 0.7,
+    "player": "WiseDetective",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
   },
   {
     "user": "user_69",
@@ -1189,6 +2201,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1197,6 +2210,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1205,6 +2219,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1213,6 +2228,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Efter att ha hittat nyckleln till arbetsrummet och visste att brevet var av betydlese."
   },
   {
@@ -1221,6 +2237,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Innan man förstod hur spelet fungerade och vilka personer som var inblandade."
   },
   {
@@ -1229,6 +2246,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När jag hittade nyckel som jag förstod var viktig."
   },
   {
@@ -1237,6 +2255,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1245,6 +2264,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1253,6 +2273,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 1
   },
   {
@@ -1261,6 +2282,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1269,6 +2291,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1277,6 +2300,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1285,6 +2309,7 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1293,7 +2318,80 @@
     "player": "WiseDetective",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_70",
+    "temp": 0.0,
+    "player": "william",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "swedish"
   },
   {
     "user": "user_70",
@@ -1301,6 +2399,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1309,6 +2408,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1317,6 +2417,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1325,6 +2426,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "figuring out the code to the safe"
   },
   {
@@ -1333,6 +2435,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "one error code as an answer when asking beatrice a question"
   },
   {
@@ -1341,6 +2444,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "accusing a suspect and got a very reasonable/realistic answer based on the conversation we had."
   },
   {
@@ -1349,6 +2453,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1357,6 +2462,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1365,6 +2471,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1373,6 +2480,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1381,6 +2489,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1389,6 +2498,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1397,6 +2507,7 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1405,7 +2516,80 @@
     "player": "william",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 3
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "female"
+  },
+  {
+    "user": "user_71",
+    "temp": 0.7,
+    "player": "Dorothy Sayers",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Svenska"
   },
   {
     "user": "user_71",
@@ -1413,6 +2597,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1421,6 +2606,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1429,6 +2615,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1437,6 +2624,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Det var roligt att chatta med rollfigurerna eftersom man kunde fråga vad som helst och få svar."
   },
   {
@@ -1445,6 +2633,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Fick ett error-meddelande från Pamela när jag frågade om hon talade sanning, när hon sa att hon hade varit ensam i köket. Att svaren var lite upprepande ibland. En gång frågade jag \"Varför sägerr du det?\" och rollfiguren svarade då \"För att det är sant och du frågade.\" - vilket kändes som ett \"AI-svar\"."
   },
   {
@@ -1453,6 +2642,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Första samtalet med Pamela var roligt och spännande och genererade många ledtrådar."
   },
   {
@@ -1461,6 +2651,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1469,6 +2660,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1477,6 +2669,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1485,6 +2678,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1493,6 +2687,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1501,6 +2696,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1509,6 +2705,7 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1517,7 +2714,80 @@
     "player": "Dorothy Sayers",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 2
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 3
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "female"
+  },
+  {
+    "user": "user_72",
+    "temp": 0.35,
+    "player": "Prutten",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
   },
   {
     "user": "user_72",
@@ -1525,6 +2795,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1533,6 +2804,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1541,6 +2813,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1549,6 +2822,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Jag kände i första konversationen som var med pamela att jag visste på en gång vem som var mördaren men alla karaktärerna var luriga och vilseledde mig hela tiden. Det gjorde mig mer och mer involverad fort, jag ville verkligen lista ut vem det var."
   },
   {
@@ -1557,6 +2831,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "karaktärerna svarade ibland väldigt samma sak på frågor, det kan bli lite som att prata med en robot istället för en karaktär."
   },
   {
@@ -1565,6 +2840,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "karaktärernas beskrivning runt ansiktsuttryck och tonfall när de pratar bidrar till stämningen. Musiken ändrades drastiskt när jag fick en ledtråd av Wilhelm, det förhöjer spelupplevelsen."
   },
   {
@@ -1573,6 +2849,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1581,6 +2858,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1589,6 +2867,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1597,6 +2876,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1605,6 +2885,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1613,6 +2894,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1621,6 +2903,7 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1629,7 +2912,80 @@
     "player": "Prutten",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 5
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 35
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 3
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "female"
+  },
+  {
+    "user": "user_73",
+    "temp": 0.7,
+    "player": "Nadiuski",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Swedish"
   },
   {
     "user": "user_73",
@@ -1637,6 +2993,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1645,6 +3002,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1653,6 +3011,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1661,6 +3020,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "I really enjoed the first conversations with everyone and asking questions."
   },
   {
@@ -1669,6 +3029,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "The responses took a bit of time also entering and leaving the rooms."
   },
   {
@@ -1677,6 +3038,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Finding the safe and not having the code and figuering out where to get it."
   },
   {
@@ -1685,6 +3047,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1693,6 +3056,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1701,6 +3065,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1709,6 +3074,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1717,6 +3083,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1725,6 +3092,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1733,6 +3101,7 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1741,7 +3110,80 @@
     "player": "Nadiuski",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 2
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_74",
+    "temp": 0.35,
+    "player": "jason",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "english"
   },
   {
     "user": "user_74",
@@ -1749,6 +3191,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1757,6 +3200,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1765,6 +3209,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1773,6 +3218,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "as soon as beatrice was acting strange i knew and i enjoyed being right"
   },
   {
@@ -1781,6 +3227,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "no"
   },
   {
@@ -1789,6 +3236,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "being correct on the first guess, it was difficult but not too difficult so it was enjoyable"
   },
   {
@@ -1797,6 +3245,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1805,6 +3254,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1813,6 +3263,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1821,6 +3272,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1829,6 +3281,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1837,6 +3290,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1845,6 +3299,7 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -1853,7 +3308,80 @@
     "player": "jason",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 3
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 45
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_76",
+    "temp": 0.0,
+    "player": "Phil",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "swedish"
   },
   {
     "user": "user_76",
@@ -1861,6 +3389,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1869,6 +3398,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1877,6 +3407,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1885,6 +3416,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "when I got into character and was really rude to the people, Harry Dubois style. Everyone hated me."
   },
   {
@@ -1893,6 +3425,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "I didnt really feel like the characters responded in a way that reflects how I treated them."
   },
   {
@@ -1901,6 +3434,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "feeling confused about how to review my clues with nobody to really ask. also, the reward cycle is a bit weak compared to a game where I can see my progress."
   },
   {
@@ -1909,6 +3443,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 1
   },
   {
@@ -1917,6 +3452,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1925,6 +3461,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 1
   },
   {
@@ -1933,6 +3470,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1941,6 +3479,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1949,6 +3488,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -1957,6 +3497,7 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -1965,7 +3506,80 @@
     "player": "Phil",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 5
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 55
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 1
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "female"
+  },
+  {
+    "user": "user_77",
+    "temp": 0.35,
+    "player": "Micaela",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
   },
   {
     "user": "user_77",
@@ -1973,6 +3587,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1981,6 +3596,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1989,6 +3605,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -1997,6 +3614,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2005,6 +3623,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2013,6 +3632,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2021,6 +3641,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2029,6 +3650,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2037,6 +3659,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2045,6 +3668,7 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2053,7 +3677,80 @@
     "player": "Micaela",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 3
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 2
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "female"
+  },
+  {
+    "user": "user_78",
+    "temp": 0.7,
+    "player": "venessa",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "swedish"
   },
   {
     "user": "user_78",
@@ -2061,6 +3758,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2069,6 +3767,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2077,6 +3776,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2085,6 +3785,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "when there was a key to find to the safe, which divided the game into several smaller tasks"
   },
   {
@@ -2093,6 +3794,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2101,6 +3803,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2109,6 +3812,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2117,6 +3821,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2125,6 +3830,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2133,6 +3839,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2141,6 +3848,7 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2149,7 +3857,80 @@
     "player": "venessa",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 5
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 3
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_79",
+    "temp": 0.7,
+    "player": "pejje",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Svenska"
   },
   {
     "user": "user_79",
@@ -2157,6 +3938,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2165,6 +3947,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2173,6 +3956,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2181,6 +3965,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Först var det lite svårt att veta vad för frågor man ska ställa. Men sen när man vet mer och mer om karaktärerna blev det roligare"
   },
   {
@@ -2189,6 +3974,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Nej inte på grund av spelet"
   },
   {
@@ -2197,6 +3983,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När man klarade första ledtråden och på så sätt förstår mer hur/vad  för frågor man ska ställa"
   },
   {
@@ -2205,6 +3992,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2213,6 +4001,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2221,6 +4010,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2229,6 +4019,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2237,6 +4028,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2245,6 +4037,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2253,6 +4046,7 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2261,7 +4055,80 @@
     "player": "pejje",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 35
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_80",
+    "temp": 0.35,
+    "player": "biffan",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Svenska"
   },
   {
     "user": "user_80",
@@ -2269,6 +4136,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2277,6 +4145,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2285,6 +4154,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2293,6 +4163,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "When people responed realistically to my questions, and with different personalities."
   },
   {
@@ -2301,6 +4172,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "It took a little longer than expected. So I was a little restless towards the end, when it felt as if I had done everything but couldn't get a confession from anyone. The waiting for answers from NPCs were a little distracting, but I of course understand why."
   },
   {
@@ -2309,6 +4181,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "The distinct personalities of the NPCs and how cool it was to \"speak freely\" with them. It felt as if some of them were trying to gaslight me at times. Weird but cool!"
   },
   {
@@ -2317,6 +4190,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2325,6 +4199,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2333,6 +4208,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2341,6 +4217,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2349,6 +4226,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2357,6 +4235,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2365,6 +4244,7 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2373,7 +4253,80 @@
     "player": "biffan",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 18
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 4
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_83",
+    "temp": 0.35,
+    "player": "Albert",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "swedish"
   },
   {
     "user": "user_83",
@@ -2381,6 +4334,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 1
   },
   {
@@ -2389,6 +4343,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2397,6 +4352,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2405,6 +4361,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "When characters started contradicting eachother and I had to try and find cracks in their stories on my own."
   },
   {
@@ -2413,6 +4370,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Sometimes it would seem some lines were a bit nonsensical, probably caused by LLM hallucinations. There was also a moment when a character gave a HTTP error"
   },
   {
@@ -2421,6 +4379,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Having to piece together all the information and formulate a final accusation on my own."
   },
   {
@@ -2429,6 +4388,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2437,6 +4397,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2445,6 +4406,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2453,6 +4415,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2461,6 +4424,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2469,6 +4433,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2477,6 +4442,7 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2485,7 +4451,80 @@
     "player": "Albert",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 3
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 55
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 3
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_84",
+    "temp": 0.0,
+    "player": "JonnyVinter",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
   },
   {
     "user": "user_84",
@@ -2493,6 +4532,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2501,6 +4541,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2509,6 +4550,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2517,6 +4559,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När hitta koden till kassaskåpet"
   },
   {
@@ -2525,6 +4568,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "nej"
   },
   {
@@ -2533,6 +4577,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "när jag lista ut att koden har någonting med silvia att göra"
   },
   {
@@ -2541,6 +4586,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2549,6 +4595,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2557,6 +4604,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2565,6 +4613,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2573,6 +4622,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2581,6 +4631,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2589,6 +4640,7 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2597,7 +4649,80 @@
     "player": "JonnyVinter",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 18
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 4
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_85",
+    "temp": 0.35,
+    "player": "lyckatillmedkexet",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Svenska"
   },
   {
     "user": "user_85",
@@ -2605,6 +4730,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2613,6 +4739,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2621,6 +4748,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2629,6 +4757,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När man går genom dörrar så känns får man en bra känsla av miljöbyte / går från trångt till öppet."
   },
   {
@@ -2637,6 +4766,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Vet ej :/"
   },
   {
@@ -2645,6 +4775,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Resp. rum"
   },
   {
@@ -2653,6 +4784,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2661,6 +4793,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2669,6 +4802,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2677,6 +4811,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2685,6 +4820,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2693,6 +4829,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2701,6 +4838,7 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2709,7 +4847,80 @@
     "player": "lyckatillmedkexet",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 5
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 4
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "female"
+  },
+  {
+    "user": "user_86",
+    "temp": 0.0,
+    "player": "Ella",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
   },
   {
     "user": "user_86",
@@ -2717,6 +4928,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2725,6 +4937,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2733,6 +4946,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2741,6 +4955,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "det kändes inte enformigt, bra med olika typer av \"drama\" i familjen och olika typer av karaktärer"
   },
   {
@@ -2749,6 +4964,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "LLM var lite trög ibland och tog tid att generera svar, fick 2-3 \"error 500\" också så fick skriva om frågan"
   },
   {
@@ -2757,6 +4973,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "tycket om karaktären som fanns som av dramatisk son, typisk \"dotter som inte gillar styvmor\" och sassy advokat. Det gav mer liv till spelet"
   },
   {
@@ -2765,6 +4982,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2773,6 +4991,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2781,6 +5000,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2789,6 +5009,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2797,6 +5018,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2805,6 +5027,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2813,6 +5036,7 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2821,7 +5045,80 @@
     "player": "Ella",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_87",
+    "temp": 0.7,
+    "player": "gman",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "swedish"
   },
   {
     "user": "user_87",
@@ -2829,6 +5126,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2837,6 +5135,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2845,6 +5144,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2853,6 +5153,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "When the son (Wilmar? Wilhelm?) retorted to my initial murder accusation. Raving about how he'd be halfway to Tangiers - good stuff."
   },
   {
@@ -2861,6 +5162,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "I sadly quite often felt a mismatch in the GenAI usage and detective genre. I kept wondering \"Is this person lying, or has the AI made a logic error, that it is attempting to rectify by hallucinating? To what degree is the model aware of its own mistakes?\""
   },
   {
@@ -2869,6 +5171,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "My first conversation - to Pamela. I had interviewed her about her not having noticed the body/any blood/any signs of struggle when sleeping. But the body is covered in blood, in plain clothes, on the bed. Is she bullshitting me? It was a complicated situation. In the end, I felt I had to move on to appease the game, rather than pursuing detective work."
   },
   {
@@ -2877,6 +5180,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2885,6 +5189,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2893,6 +5198,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 1
   },
   {
@@ -2901,6 +5207,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2909,6 +5216,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2917,6 +5225,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2925,6 +5234,7 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -2933,7 +5243,80 @@
     "player": "gman",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 3
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 65
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 1
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_88",
+    "temp": 0.7,
+    "player": "Hans Jurgen",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Tyska"
   },
   {
     "user": "user_88",
@@ -2941,6 +5324,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2949,6 +5333,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -2957,6 +5342,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2965,6 +5351,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Är ovan datorselare och ovan vid spelen. Men givande att se hur spelet är konstruerad."
   },
   {
@@ -2973,6 +5360,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "När någon kom in och avslöjade vem som mördaten var."
   },
   {
@@ -2981,6 +5369,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -2989,6 +5378,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -2997,6 +5387,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -3005,6 +5396,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -3013,6 +5405,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -3021,6 +5414,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -3029,6 +5423,7 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -3037,7 +5432,80 @@
     "player": "Hans Jurgen",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 4
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 35
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_89",
+    "temp": 0.35,
+    "player": "anton",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
   },
   {
     "user": "user_89",
@@ -3045,6 +5513,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -3053,6 +5522,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -3061,6 +5531,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -3069,6 +5540,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "When I asked Pamela follow up questions"
   },
   {
@@ -3077,6 +5549,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "When several characters answered in the same way initially when asked 'Tell me everything you know'"
   },
   {
@@ -3085,6 +5558,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -3093,6 +5567,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -3101,6 +5576,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -3109,6 +5585,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -3117,6 +5594,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -3125,6 +5603,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -3133,6 +5612,7 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -3141,7 +5621,80 @@
     "player": "anton",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 3
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 65
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 1
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_90",
+    "temp": 0.0,
+    "player": "Randulv",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
   },
   {
     "user": "user_90",
@@ -3149,6 +5702,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_1",
     "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -3157,6 +5711,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_10",
     "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
     "answer": 2
   },
   {
@@ -3165,6 +5720,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_11",
     "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -3173,6 +5729,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_12",
     "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Jag kände i slutet att jag hade en viktig uppgift som jag absolut ville lösa även om det bara var ett spel."
   },
   {
@@ -3181,6 +5738,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_13",
     "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Nej, men jag tror man ska läsa instruktionerna mer noggrant. Tycker att personerna liknade varandra något som gjorde att jag blandade ihopp vem som var vem."
   },
   {
@@ -3189,6 +5747,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_14",
     "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
     "answer": "Ja, mycket nöjd att jag listade ut eoch fick en ledtråd som absolut blev avgörande, MEN jag var ändå inte 100 % säker. Spännande!"
   },
   {
@@ -3197,6 +5756,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_2",
     "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -3205,6 +5765,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_3",
     "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
     "answer": 3
   },
   {
@@ -3213,6 +5774,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_4",
     "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
     "answer": 4
   },
   {
@@ -3221,6 +5783,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_5",
     "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -3229,6 +5792,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_6",
     "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -3237,6 +5801,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_7",
     "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -3245,6 +5810,7 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_8",
     "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
     "answer": 5
   },
   {
@@ -3253,6 +5819,601 @@
     "player": "Randulv",
     "q_id": "game_experience_postplay_short_9",
     "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
     "answer": 5
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 35
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 3
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "Female"
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Swedish"
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
+    "answer": 2
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
+    "answer": 2
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
+    "answer": "When I found the key! It was fun to collect it, it reminded me of a clickandfound game I playd when I was a child"
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
+    "answer": "The clue meny option could be on the main frame to be more seamless in the eperience"
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
+    "answer": "It was fun to find the combination to the safe, it was not too hard but to easy either"
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
+    "answer": 4
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
+    "answer": 4
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
+    "answer": 4
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
+    "answer": 4
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
+    "answer": 4
+  },
+  {
+    "user": "user_91",
+    "temp": 0.0,
+    "player": "Liss",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "svenska"
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
+    "answer": 2
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
+    "answer": "Det var svårt att bli uppslukad när jag bara kunde be agenterna om ledtrådarna. Men musiken sätter bra stämming + på den"
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
+    "answer": "Lite samma som förra när jag bara kunde be agenterna om ledtrådar. Blev inget tänkande då"
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
+    "answer": "Kul man kunde klicka på objekt"
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
+    "answer": 2
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
+    "answer": 1
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
+    "answer": 1
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
+    "answer": 2
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
+    "answer": 4
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
+    "answer": 2
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_93",
+    "temp": 0.7,
+    "player": "kaptenkaos",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
+    "answer": 1
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "consent_gameplay_data",
+    "question": "Jag samtycker till insamling av spelinteraktionsdata för denna forskning.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "consent_ieq",
+    "question": "Jag samtycker till att besvara IEQ-formuläret och förstår att mina svar kommer att användas i studiens analys.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "consent_participate",
+    "question": "Jag samtycker till att delta i projektet.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "consent_received_info",
+    "question": "Jag har fått information om studien.",
+    "form": "consent_v2",
+    "answer": true
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "participant_age",
+    "question": "Ålder",
+    "form": "consent_v2",
+    "answer": 25
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "participant_game_experience",
+    "question": "Spelvana",
+    "form": "consent_v2",
+    "answer": 5
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "participant_gender",
+    "question": "Kön (vänligen ange 'male' för man, 'female' för kvinna eller 'other' för annat)",
+    "form": "consent_v2",
+    "answer": "male"
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "participant_native_language",
+    "question": "Modersmål",
+    "form": "consent_v2",
+    "answer": "Danish"
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_1",
+    "question": "I vilken utsträckning var du medveten om att du befann dig i den verkliga världen medan du spelade?",
+    "form": "game_experience_postplay_short",
+    "answer": 3
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_10",
+    "question": "I vilken utsträckning upplevde du spelet som lätt?",
+    "form": "game_experience_postplay_short",
+    "answer": 3
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_11",
+    "question": "Kände du spänning kring huruvida du skulle lyckas bra i spelet eller inte?",
+    "form": "game_experience_postplay_short",
+    "answer": 4
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_12",
+    "question": "Kan du beskriva ett tillfälle under spelets gång när du kände dig uppslukad av spelvärlden och historien? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
+    "answer": "When I realized that I could ask any question and I would get an answer. Because before Language Model thing, this sort of thing was not possible in a game. So that is actually amazing, like this concept is actually genious."
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_13",
+    "question": "Kände du vid något tillfälle att inlevelsen i spelet förstördes? Om så var fallet, vad var det som orsakade detta? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
+    "answer": "I guess yeah ehmm like the time they took to answer the questions was a bit too long."
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_14",
+    "question": "Finns det något ögonblick från din spelsession som du kommer ihåg extra väl? Varför? Svara i 1-2 meningar.",
+    "form": "game_experience_postplay_short",
+    "answer": "The housekeeper had sunglasses for some reason."
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_2",
+    "question": "I vilken utsträckning glömde du dina vardagliga bekymmer?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_3",
+    "question": "I vilken utsträckning kände du dig som om du var avskild från din verkliga omgivning?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_4",
+    "question": "Hände det att du blev så involverad att du inte längre var medveten om att du använde kontrollerna, till exempel att det kändes ansträngningslöst?",
+    "form": "game_experience_postplay_short",
+    "answer": 3
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_5",
+    "question": "I vilken utsträckning kände du dig fokuserad på spelet?",
+    "form": "game_experience_postplay_short",
+    "answer": 5
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_6",
+    "question": "I vilken utsträckning kände du att spelet var något roligt du upplevde, snarare än en uppgift du bara utförde?",
+    "form": "game_experience_postplay_short",
+    "answer": 3
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_7",
+    "question": "I vilken utsträckning kände du dig motiverad medan du spelade?",
+    "form": "game_experience_postplay_short",
+    "answer": 4
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_8",
+    "question": "Hur mycket skulle du säga att du uppskattade att spela spelet?",
+    "form": "game_experience_postplay_short",
+    "answer": 4
+  },
+  {
+    "user": "user_94",
+    "temp": 0.7,
+    "player": "Boris",
+    "q_id": "game_experience_postplay_short_9",
+    "question": "I vilken utsträckning upplevde du spelet som utmanande?",
+    "form": "game_experience_postplay_short",
+    "answer": 3
   }
 ]

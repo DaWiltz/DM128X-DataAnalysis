@@ -173,9 +173,7 @@ def plot_participant_table(scored: pd.DataFrame) -> None:
             *[f"{row[c]:.2f}" if pd.notna(row[c]) else "—" for c in factor_cols],
         ])
 
-    n_cols = len(col_labels)
-    n_rows = len(table_data)
-    fig, ax = plt.subplots(figsize=(max(18, n_cols * 1.1), max(3, n_rows * 0.7 + 2.5)))
+    fig, ax = plt.subplots(figsize=(max(18, len(col_labels) * 1.1), max(3, len(table_data) * 0.7 + 2.5)))
     fig.patch.set_facecolor("white")
     ax.axis("off")
 
@@ -184,30 +182,16 @@ def plot_participant_table(scored: pd.DataFrame) -> None:
     tbl.set_fontsize(9)
     tbl.scale(1.0, 1.9)
 
-    header_color = "#4C72B0"
-    rev_header   = "#8B6090"
-    factor_header = "#2E6B4F"
-
     for j, lbl in enumerate(col_labels):
-        col = lbl
-        if col in rev_set:
-            hc = rev_header
-        elif col in factor_col_set:
-            hc = factor_header
-        else:
-            hc = header_color
+        hc = "#8B6090" if lbl in rev_set else "#2E6B4F" if lbl in factor_col_set else "#4C72B0"
         tbl[0, j].set_facecolor(hc)
         tbl[0, j].set_text_props(color="white", fontweight="bold")
 
     temp_bg = {t: c + "22" for t, c in TEMP_COLORS.items()}
-    factor_bg = "#e8f5ee"
-
     for i, (_, row) in enumerate(df[all_cols].iterrows(), start=1):
-        t = str(row["temperature"])
-        base = temp_bg.get(t, "#fafafa")
+        base = temp_bg.get(str(row["temperature"]), "#fafafa")
         for j, lbl in enumerate(col_labels):
-            bg = factor_bg if lbl in factor_col_set else base
-            tbl[i, j].set_facecolor(bg)
+            tbl[i, j].set_facecolor("#e8f5ee" if lbl in factor_col_set else base)
 
     ax.set_title(
         "Participant Scores — IEQ-SF\n"
@@ -250,9 +234,7 @@ def plot_item_descriptives_table(scored: pd.DataFrame) -> None:
         key_order += [f"{temp} mean", f"{temp} SD", f"{temp} n"]
     table_data = [[r[k] for k in key_order] for r in rows]
 
-    n_cols = len(col_labels)
-    n_rows = len(table_data)
-    fig, ax = plt.subplots(figsize=(max(16, n_cols * 1.4), max(4, n_rows * 0.65 + 2.5)))
+    fig, ax = plt.subplots(figsize=(max(16, len(col_labels) * 1.4), max(4, len(table_data) * 0.65 + 2.5)))
     fig.patch.set_facecolor("white")
     ax.axis("off")
 
@@ -261,21 +243,15 @@ def plot_item_descriptives_table(scored: pd.DataFrame) -> None:
     tbl.set_fontsize(9)
     tbl.scale(1.0, 1.9)
 
-    temp_header_colors = {"T=0": "#4C72B0", "T=0.35": "#DD8452", "T=0.70": "#55A868"}
-    base_header = "#555555"
-
-    header_col_map = ["Item", "Factor", "Reversed"] + [
-        t for t in TEMPS for _ in range(3)
-    ]
+    header_col_map = ["Item", "Factor", "Reversed"] + [t for t in TEMPS for _ in range(3)]
     for j, key in enumerate(header_col_map):
-        hc = temp_header_colors.get(key, base_header)
-        tbl[0, j].set_facecolor(hc)
+        tbl[0, j].set_facecolor(TEMP_COLORS.get(key, "#555555"))
         tbl[0, j].set_text_props(color="white", fontweight="bold")
 
     factor_colors = {"Involvement": "#dce9f5", "RWD": "#fdebd0", "Challenge": "#d5f0e0"}
     for i, row in enumerate(rows, start=1):
         bg = factor_colors.get(row["Factor"], "white") if i % 2 == 1 else "#f7f7f7"
-        for j in range(n_cols):
+        for j in range(len(col_labels)):
             tbl[i, j].set_facecolor(bg)
 
     ax.set_title(
@@ -295,8 +271,7 @@ def plot_anova_table(anova_df: pd.DataFrame) -> None:
         lambda p: "***" if p < 0.001 else ("**" if p < 0.01 else ("*" if p < 0.05 else "ns"))
     )
 
-    col_keys   = ["factor", "test", "stat", "df", "p",       "eta_sq", "sig"]
-    col_labels = ["Factor", "Test", "Statistic", "df", "p-value", "η²",  "Sig."]
+    col_labels = ["Factor", "Test", "Statistic", "df", "p-value", "η²", "Sig."]
 
     table_data = []
     for _, row in display.iterrows():
@@ -319,9 +294,8 @@ def plot_anova_table(anova_df: pd.DataFrame) -> None:
     tbl.set_fontsize(11)
     tbl.scale(1.2, 2.0)
 
-    header_color = "#4C72B0"
     for j in range(len(col_labels)):
-        tbl[0, j].set_facecolor(header_color)
+        tbl[0, j].set_facecolor("#4C72B0")
         tbl[0, j].set_text_props(color="white", fontweight="bold")
 
     for i, (_, row) in enumerate(display.iterrows(), start=1):

@@ -191,6 +191,67 @@ def load_source_data() -> pd.DataFrame:
     return pd.read_json(json_path)
 
 
+_DEMO_COLS = {
+    "participant_age": "age",
+    "participant_gender": "gender",
+    "participant_game_experience": "game_experience",
+    "participant_native_language": "native_language",
+}
+
+
+def extract_demographics(raw_df: pd.DataFrame) -> pd.DataFrame:
+    df = raw_df.copy()
+    if "temp" in df.columns and "temperature" not in df.columns:
+        df = df.rename(columns={"temp": "temperature"})
+
+    demo = df[df["q_id"].isin(_DEMO_COLS)].copy()
+    if demo.empty:
+        return pd.DataFrame(columns=["player", "temperature"] + list(_DEMO_COLS.values()))
+
+    demo["temperature"] = demo["temperature"].apply(normalize_temperature)
+
+    wide = demo.pivot_table(index="player", columns="q_id", values="answer", aggfunc="first")
+    wide.columns.name = None
+    wide = wide.rename(columns=_DEMO_COLS).reset_index()
+
+    temp_map = demo.dropna(subset=["temperature"]).groupby("player")["temperature"].first()
+    wide["temperature"] = wide["player"].map(temp_map)
+
+    present = ["player", "temperature"] + [c for c in _DEMO_COLS.values() if c in wide.columns]
+    wide["temperature"] = pd.Categorical(wide["temperature"], categories=TEMPS, ordered=True)
+    return wide[present].sort_values(["temperature", "player"]).reset_index(drop=True)
+
+
+_OPEN_COLS = {
+    "game_experience_postplay_short_12": "immersion_moment",
+    "game_experience_postplay_short_13": "immersion_break",
+    "game_experience_postplay_short_14": "memorable_moment",
+}
+
+
+def extract_open_answers(raw_df: pd.DataFrame) -> pd.DataFrame:
+    df = raw_df.copy()
+    if "temp" in df.columns and "temperature" not in df.columns:
+        df = df.rename(columns={"temp": "temperature"})
+
+    open_rows = df[df["q_id"].isin(_OPEN_COLS)].copy()
+    if open_rows.empty:
+        return pd.DataFrame(columns=["player", "temperature"] + list(_OPEN_COLS.values()))
+
+    open_rows["temperature"] = open_rows["temperature"].apply(normalize_temperature)
+
+    wide = open_rows.pivot_table(index="player", columns="q_id", values="answer", aggfunc="first")
+    wide.columns.name = None
+    wide = wide.rename(columns=_OPEN_COLS).reset_index()
+
+    temp_map = open_rows.dropna(subset=["temperature"]).groupby("player")["temperature"].first()
+    wide["temperature"] = wide["player"].map(temp_map)
+
+    present = ["player", "temperature"] + [c for c in _OPEN_COLS.values() if c in wide.columns]
+    wide["temperature"] = pd.Categorical(wide["temperature"], categories=TEMPS, ordered=True)
+    return wide[present].sort_values(["temperature", "player"]).reset_index(drop=True)
+
+
 def standardize_source_columns(df: pd.DataFrame) -> pd.DataFrame:
     rename_candidates = {
         "u.name": "user",
