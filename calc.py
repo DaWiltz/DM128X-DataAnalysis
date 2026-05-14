@@ -182,13 +182,61 @@ def load_source_data() -> pd.DataFrame:
     except Exception as exc:
         print(f"Neo4j ingestion failed ({exc}), falling back to JSON")
 
-    _json_input = input("Enter path to input JSON file: ").strip()
-    json_path = Path(_json_input)
-    if not json_path.exists():
-        raise FileNotFoundError(f"JSON source not found: {json_path}")
+    _input = input("Enter path to input file (JSON or CSV): ").strip()
+    src = Path(_input)
+    if not src.exists():
+        raise FileNotFoundError(f"Source file not found: {src}")
 
-    print(f"Loaded data from JSON: {json_path}")
-    return pd.read_json(json_path)
+    if src.suffix.lower() == ".csv":
+        print(f"Loaded data from CSV: {src}")
+        return pd.read_csv(src)
+
+    print(f"Loaded data from JSON: {src}")
+    return pd.read_json(src)
+
+
+_PLAYER_COLS = {
+    "player_name": "player",
+    "player":      "player",
+    "temperature":      "temperature",
+    "has_completed_game":  "completed",
+    "accused_npc_id":      "accused_npc",
+    "accused_correct_npc": "accused_correct",
+}
+
+
+def build_jamovi_export(
+    raw_df: pd.DataFrame,
+    scored: pd.DataFrame,
+    demo_df: pd.DataFrame,
+) -> pd.DataFrame:
+    df = _normalize_columns(raw_df.copy())
+
+    player_col = "player" if "player" in df.columns else "player_name"
+    keep = [c for c in _PLAYER_COLS if c in df.columns]
+    per_player = (
+        df[[player_col] + [c for c in keep if c != player_col]]
+        .drop_duplicates(subset=[player_col])
+        .rename(columns=_PLAYER_COLS)
+    )
+    per_player["temperature"] = per_player["temperature"].apply(normalize_temperature)
+
+    factor_cols = list(FACTORS.keys()) + ["Overall"]
+    result = (
+        per_player
+        .merge(demo_df.drop(columns=["temperature"], errors="ignore"), on="player", how="left")
+        .merge(scored[["player"] + factor_cols], on="player", how="left")
+    )
+
+    col_order = (
+        ["player", "temperature"]
+        + [v for v in _PLAYER_COLS.values() if v not in ("player", "temperature") and v in result.columns]
+        + [c for c in demo_df.columns if c not in ("player", "temperature")]
+        + factor_cols
+    )
+    col_order = [c for c in col_order if c in result.columns]
+    result["temperature"] = pd.Categorical(result["temperature"], categories=TEMPS, ordered=True)
+    return result[col_order].sort_values(["temperature", "player"]).reset_index(drop=True)
 
 
 _DEMO_COLS = {
@@ -199,10 +247,22 @@ _DEMO_COLS = {
 }
 
 
+def _normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
+    renames = {
+        "player_name": "player",
+        "question_id": "q_id",
+        "raw_answer": "answer",
+        "answer_created_at": "submitted_at",
+        "temp": "temperature",
+    }
+    df = df.rename(columns={k: v for k, v in renames.items() if k in df.columns and v not in df.columns})
+    if "answer" in df.columns and "answer_int" in df.columns:
+        df["answer"] = df["answer_int"].where(df["answer_int"].notna(), df["answer"])
+    return df
+
+
 def extract_demographics(raw_df: pd.DataFrame) -> pd.DataFrame:
-    df = raw_df.copy()
-    if "temp" in df.columns and "temperature" not in df.columns:
-        df = df.rename(columns={"temp": "temperature"})
+    df = _normalize_columns(raw_df.copy())
 
     demo = df[df["q_id"].isin(_DEMO_COLS)].copy()
     if demo.empty:
@@ -213,6 +273,9 @@ def extract_demographics(raw_df: pd.DataFrame) -> pd.DataFrame:
     wide = demo.pivot_table(index="player", columns="q_id", values="answer", aggfunc="first")
     wide.columns.name = None
     wide = wide.rename(columns=_DEMO_COLS).reset_index()
+
+    if "gender" in wide.columns:
+        wide["gender"] = wide["gender"].str.lower().str.strip()
 
     temp_map = demo.dropna(subset=["temperature"]).groupby("player")["temperature"].first()
     wide["temperature"] = wide["player"].map(temp_map)
@@ -230,9 +293,7 @@ _OPEN_COLS = {
 
 
 def extract_open_answers(raw_df: pd.DataFrame) -> pd.DataFrame:
-    df = raw_df.copy()
-    if "temp" in df.columns and "temperature" not in df.columns:
-        df = df.rename(columns={"temp": "temperature"})
+    df = _normalize_columns(raw_df.copy())
 
     open_rows = df[df["q_id"].isin(_OPEN_COLS)].copy()
     if open_rows.empty:
@@ -256,11 +317,16 @@ def standardize_source_columns(df: pd.DataFrame) -> pd.DataFrame:
     rename_candidates = {
         "u.name": "user",
         "p.name": "player",
+        "player_name": "player",
         "f.name_en": "form",
+        "form_name_en": "form",
         "fq.question_en": "question",
+        "question_en": "question",
         "fa.raw_answer": "answer",
+        "raw_answer": "answer",
         "fa.value_type": "answer_type",
         "fa.created_at": "submitted_at",
+        "answer_created_at": "submitted_at",
         "question_id": "q_id",
         "fq.question_id": "q_id",
         "temp": "temperature",
@@ -268,6 +334,7 @@ def standardize_source_columns(df: pd.DataFrame) -> pd.DataFrame:
         "player_temperature": "temperature",
         "temperature_group": "temperature",
     }
+    df = _normalize_columns(df)
     available = {k: v for k, v in rename_candidates.items() if k in df.columns}
     df = df.rename(columns=available)
 
@@ -638,6 +705,51 @@ def build_conclusions(anova_df: pd.DataFrame, tukey_df: pd.DataFrame) -> str:
             lines.append(
                 f"  * {row['factor']}: {test_label}, p = {row['p']:.3f}, eta^2 = {row['eta_sq']:.3f}"
             )
+
+    return "\n".join(lines)
+
+
+def build_qualitative_report(
+    jamovi: pd.DataFrame,
+    open_df: pd.DataFrame,
+) -> str:
+    merged = jamovi.merge(open_df[["player", "immersion_moment", "immersion_break", "memorable_moment"]],
+                          on="player", how="left")
+
+    lines = ["QUALITATIVE PLAYER REPORT — IEQ-SF", "=" * 60, ""]
+
+    for temp in TEMPS:
+        group = merged[merged["temperature"] == temp]
+        if group.empty:
+            continue
+        lines += [f"── Temperature: {temp} (n = {len(group)}) ──────────────────────────", ""]
+
+        for _, p in group.iterrows():
+            def val(col): return p[col] if pd.notna(p.get(col)) else "—"
+
+            completed = "Yes" if val("completed") is True or val("completed") == "True" else val("completed")
+            correct   = "Yes" if val("accused_correct") is True or val("accused_correct") == "True" else "No"
+
+            lines += [
+                f"  Player:       {val('player')}",
+                f"  Age:          {val('age')}    Gender: {val('gender')}    "
+                f"Game exp.: {val('game_experience')}/5    Lang: {val('native_language')}",
+                f"  Completed:    {completed}    Accused: {val('accused_npc')}    Correct: {correct}",
+                f"  Scores:       Involvement {val('Involvement'):.2f}  |  RWD {val('RWD'):.2f}  |  "
+                f"Challenge {val('Challenge'):.2f}  |  Overall {val('Overall'):.2f}",
+                f"",
+                f"  Q12 – Immersion moment:",
+                f"    {val('immersion_moment')}",
+                f"",
+                f"  Q13 – Immersion break:",
+                f"    {val('immersion_break')}",
+                f"",
+                f"  Q14 – Memorable moment:",
+                f"    {val('memorable_moment')}",
+                f"",
+                f"  {'─' * 54}",
+                f"",
+            ]
 
     return "\n".join(lines)
 

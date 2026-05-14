@@ -7,6 +7,8 @@ from calc import (
     PLOTS_DIR,
     build_conclusions,
     build_ieq_long,
+    build_jamovi_export,
+    build_qualitative_report,
     compute_descriptives,
     extract_demographics,
     extract_open_answers,
@@ -52,6 +54,8 @@ def main() -> None:
 
     # Save CSVs
     scored.to_csv(OUT_DIR / "participant_scores.csv", index=False)
+    jamovi_df = build_jamovi_export(raw_df, scored, demo_df)
+    jamovi_df.to_csv(OUT_DIR / "jamovi_anova.csv", index=False)
     demo_df.to_csv(OUT_DIR / "demographics.csv", index=False)
     open_df.to_csv(OUT_DIR / "open_answers.csv", index=False)
     descriptives.to_csv(OUT_DIR / "descriptives.csv", index=False)
@@ -70,6 +74,9 @@ def main() -> None:
     # Conclusions
     conclusions = build_conclusions(anova_df, tukey_df)
     (OUT_DIR / "conclusions.txt").write_text(conclusions, encoding="utf-8")
+
+    qualitative = build_qualitative_report(jamovi_df, open_df)
+    (OUT_DIR / "qualitative_report.txt").write_text(qualitative, encoding="utf-8")
 
     print_summary(descriptives, anova_df)
     print(f"\n{conclusions}")
