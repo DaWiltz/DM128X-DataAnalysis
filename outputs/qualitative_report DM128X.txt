@@ -1,0 +1,751 @@
+QUALITATIVE PLAYER REPORT — IEQ-SF
+============================================================
+
+── Temperature: T=0 (n = 11) ──────────────────────────
+
+  Player:       Ella
+  Age:          25.0    Gender: female    Game exp.: 4.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_pamela    Correct: No
+  Scores:       Involvement 4.50  |  RWD 3.25  |  Challenge 3.67  |  Overall 3.82
+
+  Q12 – Immersion moment:
+    det kändes inte enformigt, bra med olika typer av "drama" i familjen och olika typer av karaktärer
+
+Coded 1. Dynamic & Varied Experience
+
+  Q13 – Immersion break:
+    LLM var lite trög ibland och tog tid att generera svar, fick 2-3 "error 500" också så fick skriva om frågan
+
+Coded 2. Slow responce time
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    tycket om karaktären som fanns som av dramatisk son, typisk "dotter som inte gillar styvmor" och sassy advokat. Det gav mer liv till spelet
+
+Coded: 1. Dynamic & Varied Experience
+
+Coded: 3. Realistic and belivable characters
+
+  ──────────────────────────────────────────────────────
+
+  Player:       JonnyVinter
+  Age:          55.0    Gender: male    Game exp.: 3.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 5.00  |  RWD 4.00  |  Challenge 3.67  |  Overall 4.27
+
+  Q12 – Immersion moment:
+    När hitta koden till kassaskåpet
+
+Coded 4. Finding clues/Solving the mystery
+
+  Q13 – Immersion break:
+    nej
+
+  Q14 – Memorable moment:
+    när jag lista ut att koden har någonting med silvia att göra
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Kerstin
+  Age:          65.0    Gender: female    Game exp.: 1.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_bergström    Correct: No
+  Scores:       Involvement 4.50  |  RWD 4.50  |  Challenge 4.67  |  Overall 4.55
+
+  Q12 – Immersion moment:
+    Vaje gång jag intervjuade personerna på slottet.
+
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    När jag skulle svara med siffror till konstapeln.
+
+Coded: 1. Dynamic & Varied Experience
+
+  Q14 – Memorable moment:
+    Första mötet med hushållerskan
+
+Coded 5. Interacting with the NPC's
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Liss
+  Age:          35.0    Gender: female    Game exp.: 3.0/5    Lang: Swedish
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.25  |  RWD 4.25  |  Challenge 4.67  |  Overall 4.36
+
+  Q12 – Immersion moment:
+    When I found the key! It was fun to collect it, it reminded me of a clickandfound game I playd when I was a Child
+
+Coded 4. Finding clues/Solving the mystery
+
+  Q13 – Immersion break:
+    The clue meny option could be on the main frame to be more seamless in the eperience
+
+Coded 6. Game design experience
+
+  Q14 – Memorable moment:
+    It was fun to find the combination to the safe, it was not too hard but to easy either
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Läderlappen
+  Age:          25.0    Gender: male    Game exp.: 4.0/5    Lang: Svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 3.75  |  RWD 3.50  |  Challenge 3.33  |  Overall 3.55
+
+  Q12 – Immersion moment:
+    När jag började skriva inte bara vad som hände utan vad jag *gjorde* och karaktärerna reagerade på det och till och med kom ihåg vad jag hade gjort mot dem.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    Ja ibland när vissa knappar inte fungerade. Jag var till exempel tvungen att trycka flera gånger på tillbaka när jag var i ett rum och pratade med en person.
+
+Coded 2. Slow responce time
+Coded 6. Game design experience
+
+  Q14 – Memorable moment:
+    När jag började *Agera* mot karaktärerna.
+
+Coded 5. Interacting with the NPC's
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Mr Boopo
+  Age:          35.0    Gender: male    Game exp.: 4.0/5    Lang: swedish
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.00  |  RWD 3.75  |  Challenge 2.67  |  Overall 3.55
+
+  Q12 – Immersion moment:
+    —
+
+  Q13 – Immersion break:
+    —
+
+  Q14 – Memorable moment:
+    —
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Phil
+  Age:          45.0    Gender: male    Game exp.: 5.0/5    Lang: swedish
+  Completed:    Yes    Accused: npc_mariana    Correct: No
+  Scores:       Involvement 3.25  |  RWD 2.00  |  Challenge 4.00  |  Overall 3.00
+
+  Q12 – Immersion moment:
+    when I got into character and was really rude to the people, Harry Dubois style. Everyone hated me.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+
+  Q13 – Immersion break:
+    I didnt really feel like the characters responded in a way that reflects how I treated them.
+
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    feeling confused about how to review my clues with nobody to really ask. also, the reward cycle is a bit weak compared to a game where I can see my progress.
+
+Coded 6. Game design experience
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Randulv
+  Age:          65.0    Gender: male    Game exp.: 1.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 5.00  |  RWD 3.50  |  Challenge 4.67  |  Overall 4.36
+
+  Q12 – Immersion moment:
+    Jag kände i slutet att jag hade en viktig uppgift som jag absolut ville lösa även om det bara var ett spel.
+
+Coded 4. Finding clues/Solving the mystery
+Coded 6. Game design experience
+
+  Q13 – Immersion break:
+    Nej, men jag tror man ska läsa instruktionerna mer noggrant. Tycker att personerna liknade varandra något som gjorde att jag blandade ihopp vem som var vem.
+
+Coded 6. Game design experience
+
+  Q14 – Memorable moment:
+    Ja, mycket nöjd att jag listade ut eoch fick en ledtråd som absolut blev avgörande, MEN jag var ändå inte 100 % säker. Spännande!
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       nb
+  Age:          25.0    Gender: female    Game exp.: 1.0/5    Lang: sv/eng
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.25  |  RWD 2.25  |  Challenge 2.67  |  Overall 3.09
+
+  Q12 – Immersion moment:
+    When I was having a conversation with the players, Pamela for example or when I needed to use tools to get into rooms etc.
+
+Coded 1. Dynamic & Varied Experience
+Coded 4. Finding clues/Solving the mystery
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    Yes, perhaps with Wilhelm conversation beacuse it was so quick and it was clear he had a certain personality. Also in the rooms that were a bit empty and also when I got an error message when I messaged Beatrice.
+
+Coded 6. Game design experience
+Coded 7. Error messages, technical issues
+
+  Q14 – Memorable moment:
+    I did like the key feature and when I was able to crack the code for the safe with the letter.
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       willi
+  Age:          25.0    Gender: female    Game exp.: 1.0/5    Lang: swedish
+  Completed:    Yes    Accused: npc_bergström    Correct: No
+  Scores:       Involvement 5.00  |  RWD 4.25  |  Challenge 3.67  |  Overall 4.36
+
+  Q12 – Immersion moment:
+    —
+
+  Q13 – Immersion break:
+    —
+
+  Q14 – Memorable moment:
+    —
+
+  ──────────────────────────────────────────────────────
+
+  Player:       william
+  Age:          25.0    Gender: male    Game exp.: 5.0/5    Lang: swedish
+  Completed:    Yes    Accused: npc_pamela    Correct: No
+  Scores:       Involvement 5.00  |  RWD 3.75  |  Challenge 3.67  |  Overall 4.18
+
+  Q12 – Immersion moment:
+    figuring out the code to the safe
+
+Coded 4. Finding clues/Solving the mystery
+
+  Q13 – Immersion break:
+    one error code as an answer when asking beatrice a question
+
+Coded 7. Error messages, technical issues
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    accusing a suspect and got a very reasonable/realistic answer based on the conversation we had.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  ──────────────────────────────────────────────────────
+
+── Temperature: T=0.35 (n = 10) ──────────────────────────
+
+  Player:       Albert
+  Age:          18.0    Gender: male    Game exp.: 4.0/5    Lang: swedish
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 5.00  |  RWD 5.00  |  Challenge 4.00  |  Overall 4.73
+
+  Q12 – Immersion moment:
+    When characters started contradicting eachother and I had to try and find cracks in their stories on my own.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+
+  Q13 – Immersion break:
+    Sometimes it would seem some lines were a bit nonsensical, probably caused by LLM hallucinations. There was also a moment when a character gave a HTTP error
+
+Coded 5. Interacting with the NPC's
+Coded 7. Error messages, technical issues
+
+  Q14 – Memorable moment:
+    Having to piece together all the information and formulate a final accusation on my own.
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Daniel
+  Age:          25.0    Gender: male    Game exp.: 5.0/5    Lang: Svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.75  |  RWD 4.75  |  Challenge 3.67  |  Overall 4.45
+
+  Q12 – Immersion moment:
+    När jag frågade Beatrice om vad hon gjorde kvälle då Nils dog
+
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    Det var trögt att få vänta på svaren från karaktärerna. Det kändes också svårt att ställa rätt frågor till karaktärerna för att få fram rätt svar.
+
+Coded 5. Interacting with the NPC's
+Coded 2. Slow responce time
+
+  Q14 – Memorable moment:
+    Vet ej
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Dr. Seacat
+  Age:          18.0    Gender: male    Game exp.: 4.0/5    Lang: polska, svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 5.00  |  RWD 3.25  |  Challenge 3.33  |  Overall 3.91
+
+  Q12 – Immersion moment:
+    när jag försökte lite ut tidslinjen. Vem var det som kunde ha låst arbetsrummet?
+
+Coded 4. Finding clues/Solving the mystery
+
+  Q13 – Immersion break:
+    Varje gång jag pratade med kommisarien. Det var en få hjälp knapp, inte en levande karaktär.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    Att leta efter den 4-siffriga koden
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Kakan
+  Age:          25.0    Gender: male    Game exp.: 5.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.25  |  RWD 4.25  |  Challenge 4.00  |  Overall 4.18
+
+  Q12 – Immersion moment:
+    När jag fick en viktig ledtråd från en person som jag behövde fråga en annan om. När nya viktiga ledtrådar kom in.
+
+Coded 5. Interacting with the NPC's
+Coded 4. Finding clues/Solving the mystery
+
+  Q13 – Immersion break:
+    När jag undersökte ett dött spår. När spelet försökte lotsa in mig någonstans.
+
+Coded 4. Finding clues/Solving the mystery
+Coded 6. Game design experience
+
+  Q14 – Memorable moment:
+    Återigen: när nya ledtrådar som förändrade hela bilden av mordet kom.
+
+Coded 1. Dynamic & Varied Experience
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Micaela
+  Age:          55.0    Gender: female    Game exp.: 1.0/5    Lang: svenska
+  Completed:    False    Accused: —    Correct: No
+  Scores:       Involvement 3.00  |  RWD 3.00  |  Challenge 3.00  |  Overall 3.00
+
+  Q12 – Immersion moment:
+    —
+
+  Q13 – Immersion break:
+    —
+
+  Q14 – Memorable moment:
+    —
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Prutten
+  Age:          25.0    Gender: female    Game exp.: 3.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_bergström    Correct: No
+  Scores:       Involvement 4.75  |  RWD 4.25  |  Challenge 4.67  |  Overall 4.55
+
+  Q12 – Immersion moment:
+    Jag kände i första konversationen som var med pamela att jag visste på en gång vem som var mördaren men alla karaktärerna var luriga och vilseledde mig hela tiden. Det gjorde mig mer och mer involverad fort, jag ville verkligen lista ut vem det var.
+
+Coded 1. Dynamic & Varied Experience
+Coded 4. Finding clues/Solving the mystery
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    karaktärerna svarade ibland väldigt samma sak på frågor, det kan bli lite som att prata med en robot istället för en karaktär.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    karaktärernas beskrivning runt ansiktsuttryck och tonfall när de pratar bidrar till stämningen. Musiken ändrades drastiskt när jag fick en ledtråd av Wilhelm, det förhöjer spelupplevelsen.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+Coded 6. Game design experience
+
+  ──────────────────────────────────────────────────────
+
+  Player:       anton
+  Age:          35.0    Gender: male    Game exp.: 5.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 3.50  |  RWD 2.50  |  Challenge 3.33  |  Overall 3.09
+
+  Q12 – Immersion moment:
+    When I asked Pamela follow up questions
+
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    When several characters answered in the same way initially when asked 'Tell me everything you know'
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    —
+
+  ──────────────────────────────────────────────────────
+
+  Player:       biffan
+  Age:          35.0    Gender: male    Game exp.: 5.0/5    Lang: Svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.50  |  RWD 3.00  |  Challenge 4.33  |  Overall 3.91
+
+  Q12 – Immersion moment:
+    When people responed realistically to my questions, and with different personalities.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    It took a little longer than expected. So I was a little restless towards the end, when it felt as if I had done everything but couldn't get a confession from anyone. The waiting for answers from NPCs were a little distracting, but I of course understand why.
+
+Coded 1. Dynamic & Varied Experience
+Coded 2. Slow responce time
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    The distinct personalities of the NPCs and how cool it was to "speak freely" with them. It felt as if some of them were trying to gaslight me at times. Weird but cool!
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  ──────────────────────────────────────────────────────
+
+  Player:       jason
+  Age:          25.0    Gender: male    Game exp.: 2.0/5    Lang: english
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.25  |  RWD 2.75  |  Challenge 3.00  |  Overall 3.36
+
+  Q12 – Immersion moment:
+    as soon as beatrice was acting strange i knew and i enjoyed being right
+
+Coded 4. Finding clues/Solving the mystery
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    no
+
+  Q14 – Memorable moment:
+    being correct on the first guess, it was difficult but not too difficult so it was enjoyable
+
+Coded 4. Finding clues/Solving the mystery
+Coded 6. Game design experience
+
+  ──────────────────────────────────────────────────────
+
+  Player:       lyckatillmedkexet
+  Age:          18.0    Gender: male    Game exp.: 4.0/5    Lang: Svenska
+  Completed:    Yes    Accused: npc_pamela    Correct: No
+  Scores:       Involvement 4.25  |  RWD 2.50  |  Challenge 4.33  |  Overall 3.64
+
+  Q12 – Immersion moment:
+    När man går genom dörrar så känns får man en bra känsla av miljöbyte / går från trångt till öppet.
+
+Coded 1. Dynamic & Varied Experience
+Coded 6. Game design experience
+
+  Q13 – Immersion break:
+    Vet ej :/
+
+  Q14 – Memorable moment:
+    Resp. rum
+
+Coded 6. Game design experience
+
+  ──────────────────────────────────────────────────────
+
+── Temperature: T=0.70 (n = 12) ──────────────────────────
+
+  Player:       Alfonso
+  Age:          25.0    Gender: male    Game exp.: 5.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_bergström    Correct: No
+  Scores:       Involvement 5.00  |  RWD 4.50  |  Challenge 4.33  |  Overall 4.64
+
+  Q12 – Immersion moment:
+    När jag listade ut vad koden till kassaskåpet var.
+
+Coded 4. Finding clues/Solving the mystery
+
+  Q13 – Immersion break:
+    Lite störande att inte kunna trycka W+A / W+D. Ibland lite störande med väntetiden för att få svar.
+
+Coded 2. Slow responce time
+Coded 6. Game design experience
+
+  Q14 – Memorable moment:
+    Att jag var säker men hade fel.
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Boris
+  Age:          25.0    Gender: male    Game exp.: 5.0/5    Lang: Danish
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.00  |  RWD 4.00  |  Challenge 3.33  |  Overall 3.82
+
+  Q12 – Immersion moment:
+    When I realized that I could ask any question and I would get an answer. Because before Language Model thing, this sort of thing was not possible in a game. So that is actually amazing, like this concept is actually genious.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    I guess yeah ehmm like the time they took to answer the questions was a bit too long.
+
+Coded 2. Slow responce time
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    The housekeeper had sunglasses for some reason.
+
+Coded 6. Game design experience
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Dorothy Sayers
+  Age:          25.0    Gender: female    Game exp.: 3.0/5    Lang: Svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.00  |  RWD 2.25  |  Challenge 2.33  |  Overall 2.91
+
+  Q12 – Immersion moment:
+    Det var roligt att chatta med rollfigurerna eftersom man kunde fråga vad som helst och få svar.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    Fick ett error-meddelande från Pamela när jag frågade om hon talade sanning, när hon sa att hon hade varit ensam i köket. Att svaren var lite upprepande ibland. En gång frågade jag "Varför sägerr du det?" och rollfiguren svarade då "För att det är sant och du frågade." - vilket kändes som ett "AI-svar".
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+Coded 7. Error messages, technical issues
+
+  Q14 – Memorable moment:
+    Första samtalet med Pamela var roligt och spännande och genererade många ledtrådar.
+
+Coded 5. Interacting with the NPC's
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Hans Jurgen
+  Age:          65.0    Gender: male    Game exp.: 1.0/5    Lang: Tyska
+  Completed:    Yes    Accused: npc_mariana    Correct: No
+  Scores:       Involvement 3.50  |  RWD 3.00  |  Challenge 4.00  |  Overall 3.45
+
+  Q12 – Immersion moment:
+    Är ovan datorselare och ovan vid spelen. Men givande att se hur spelet är konstruerad.
+
+Coded 6. Game design experience
+
+  Q13 – Immersion break:
+    När någon kom in och avslöjade vem som mördaten var.
+
+  Q14 – Memorable moment:
+    —
+
+  ──────────────────────────────────────────────────────
+
+  Player:       Nadiuski
+  Age:          35.0    Gender: female    Game exp.: 3.0/5    Lang: Swedish
+  Completed:    Yes    Accused: npc_mariana    Correct: No
+  Scores:       Involvement 4.50  |  RWD 3.00  |  Challenge 4.00  |  Overall 3.82
+
+  Q12 – Immersion moment:
+    I really enjoed the first conversations with everyone and asking questions.
+
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    The responses took a bit of time also entering and leaving the rooms.
+
+Coded 2. Slow responce time
+Coded 5. Interacting with the NPC's
+Coded 6. Game design experience
+
+  Q14 – Memorable moment:
+    Finding the safe and not having the code and figuering out where to get it.
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       WiseDetective
+  Age:          65.0    Gender: male    Game exp.: 2.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.25  |  RWD 2.75  |  Challenge 3.67  |  Overall 3.55
+
+  Q12 – Immersion moment:
+    Efter att ha hittat nyckleln till arbetsrummet och visste att brevet var av betydlese.
+
+Coded 4. Finding clues/Solving the mystery
+
+  Q13 – Immersion break:
+    Innan man förstod hur spelet fungerade och vilka personer som var inblandade.
+
+Coded 4. Finding clues/Solving the mystery
+Coded 6. Game design experience
+
+  Q14 – Memorable moment:
+    När jag hittade nyckel som jag förstod var viktig.
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       faderabraham
+  Age:          25.0    Gender: male    Game exp.: 3.0/5    Lang: swedish
+  Completed:    Yes    Accused: npc_bergström    Correct: No
+  Scores:       Involvement 4.75  |  RWD 3.50  |  Challenge 4.00  |  Overall 4.09
+
+  Q12 – Immersion moment:
+    when the son of wilhelm was rude
+
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    when wilhelm just told me the password to the safe. I dont think I asked anything specific about it
+
+Coded 4. Finding clues/Solving the mystery
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    when i got the clue from the safe
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       gman
+  Age:          25.0    Gender: male    Game exp.: 5.0/5    Lang: swedish
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 4.50  |  RWD 3.25  |  Challenge 2.67  |  Overall 3.55
+
+  Q12 – Immersion moment:
+    When the son (Wilmar? Wilhelm?) retorted to my initial murder accusation. Raving about how he'd be halfway to Tangiers - good stuff.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    I sadly quite often felt a mismatch in the GenAI usage and detective genre. I kept wondering "Is this person lying, or has the AI made a logic error, that it is attempting to rectify by hallucinating? To what degree is the model aware of its own mistakes?"
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+Coded 7. Error messages, technical issues
+
+  Q14 – Memorable moment:
+    My first conversation - to Pamela. I had interviewed her about her not having noticed the body/any blood/any signs of struggle when sleeping. But the body is covered in blood, in plain clothes, on the bed. Is she bullshitting me? It was a complicated situation. In the end, I felt I had to move on to appease the game, rather than pursuing detective work.
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+
+  ──────────────────────────────────────────────────────
+
+  Player:       kaptenkaos
+  Age:          25.0    Gender: male    Game exp.: 5.0/5    Lang: svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 3.25  |  RWD 1.25  |  Challenge 1.33  |  Overall 2.00
+
+  Q12 – Immersion moment:
+    Det var svårt att bli uppslukad när jag bara kunde be agenterna om ledtrådarna. Men musiken sätter bra stämming + på den
+
+Coded 5. Interacting with the NPC's
+Coded 6. Game design experience
+
+  Q13 – Immersion break:
+    Lite samma som förra när jag bara kunde be agenterna om ledtrådar. Blev inget tänkande då
+
+Coded 5. Interacting with the NPC's
+Coded 6. Game design experience
+
+  Q14 – Memorable moment:
+    Kul man kunde klicka på objekt
+
+Coded 6. Game design experience
+
+  ──────────────────────────────────────────────────────
+
+  Player:       pejje
+  Age:          25.0    Gender: male    Game exp.: 3.0/5    Lang: Svenska
+  Completed:    Yes    Accused: npc_beatrice    Correct: Yes
+  Scores:       Involvement 3.25  |  RWD 3.00  |  Challenge 4.00  |  Overall 3.36
+
+  Q12 – Immersion moment:
+    Först var det lite svårt att veta vad för frågor man ska ställa. Men sen när man vet mer och mer om karaktärerna blev det roligare
+
+Coded 1. Dynamic & Varied Experience
+Coded 5. Interacting with the NPC's
+Coded 6. Game design experience
+
+  Q13 – Immersion break:
+    Nej inte på grund av spelet
+
+  Q14 – Memorable moment:
+    När man klarade första ledtråden och på så sätt förstår mer hur/vad  för frågor man ska ställa
+
+Coded 4. Finding clues/Solving the mystery
+
+  ──────────────────────────────────────────────────────
+
+  Player:       pjongen
+  Age:          25.0    Gender: male    Game exp.: 5.0/5    Lang: swedish
+  Completed:    Yes    Accused: npc_wilhelm    Correct: No
+  Scores:       Involvement 4.00  |  RWD 2.00  |  Challenge 4.00  |  Overall 3.27
+
+  Q12 – Immersion moment:
+    Häftiga dialoger, uppskattades för immersionen.
+
+Coded 5. Interacting with the NPC's
+
+  Q13 – Immersion break:
+    Något långa pauser vid dialoger, tog ifrån inlevelsen.
+
+Coded 2. Slow responce time
+Coded 5. Interacting with the NPC's
+
+  Q14 – Memorable moment:
+    Dialoger generellt, gillar stilen.
+
+Coded 5. Interacting with the NPC's
+
+  ──────────────────────────────────────────────────────
+
+  Player:       venessa
+  Age:          25.0    Gender: female    Game exp.: 2.0/5    Lang: swedish
+  Completed:    False    Accused: —    Correct: No
+  Scores:       Involvement 4.00  |  RWD 3.75  |  Challenge 4.67  |  Overall 4.09
+
+  Q12 – Immersion moment:
+    when there was a key to find to the safe, which divided the game into several smaller tasks
+
+Coded 4. Finding clues/Solving the mystery
+
+  Q13 – Immersion break:
+    —
+
+  Q14 – Memorable moment:
+    —
+
+  ──────────────────────────────────────────────────────

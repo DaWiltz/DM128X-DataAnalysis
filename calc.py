@@ -731,7 +731,7 @@ def build_qualitative_report(
             correct   = "Yes" if val("accused_correct") is True or val("accused_correct") == "True" else "No"
 
             lines += [
-                f"  Player:       {val('player')}",
+                f"  Player:       {val('player')}    Temp: {val('temperature')}",
                 f"  Age:          {val('age')}    Gender: {val('gender')}    "
                 f"Game exp.: {val('game_experience')}/5    Lang: {val('native_language')}",
                 f"  Completed:    {completed}    Accused: {val('accused_npc')}    Correct: {correct}",
